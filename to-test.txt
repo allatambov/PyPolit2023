@@ -1,0 +1,35 @@
+<div class="actor_details">
+<div class="actor_film_descript" id="role_16801">
+<div class="film_name"><a href="/kino/acter/w/sov/4484/bio/" itemprop="url" title="Лидия Федосеева-Шукшина"><strong itemprop="name">Лидия Федосеева-Шукшина</strong></a></div>
+<div class="film_role">Королева Флора — <span class="film_main_role">главная роль</span></div>
+<div class="film_role_descript">жена короля Теодора</div>
+<div class="film_rating"><span id="role_rating_16801"></span></div>
+</div>
+<div class="actor_film_screens"><a href="/kino/movie/sov/4319/foto/a4484/1162854/" title="Лидия Федосеева-Шукшина"><img alt="Лидия Федосеева-Шукшина" class="actor_film_img" src="/acter/photo/4/8/4484/pv_1162854.jpg" title="Лидия Федосеева-Шукшина"/></a></div>
+</div>
+<div class="actor_details">
+<div class="actor_film_descript" id="role_89473">
+<div class="film_name"><a href="/kino/acter/w/sov/3837/bio/" itemprop="url" title="Светлана Селезнёва"><strong itemprop="name">Светлана Селезнёва</strong></a></div>
+<div class="film_role">Марселла</div>
+<div class="film_role_descript">служанка</div>
+<div class="film_rating"><span id="role_rating_89473"></span></div>
+</div>
+<div class="actor_film_screens"><a href="/kino/movie/sov/4319/foto/a3837/52038/" title="Светлана Селезнёва"><img alt="Светлана Селезнёва" class="actor_film_img" src="/acter/photo/7/3/3837/pv_52038.jpg" title="Светлана Селезнёва"/></a></div>
+</div>
+<div class="actor_details">
+<div class="actor_film_descript" id="role_132138">
+<div class="film_name"><a href="/kino/acter/m/sov/17336/bio/" itemprop="url" title="Артём Тынкасов"><strong itemprop="name">Артём Тынкасов</strong></a></div>
+<div class="film_role">Пенапью</div>
+<div class="film_role_descript">принц государства Пенагония, сын короля Гедеона</div>
+<div class="film_rating"><span id="role_rating_132138"></span></div>
+</div>
+<div class="actor_film_screens"><a href="/kino/movie/sov/4319/foto/a17336/263152/" title="Артём Тынкасов"><img alt="Артём Тынкасов" class="actor_film_img" src="/acter/photo/6/3/17336/pv_263152.jpg" title="Артём Тынкасов"/></a></div>
+</div>
+<div class="actor_details">
+<div class="actor_film_descript" id="role_160325">
+<div class="film_name"><a href="/kino/director/sov/22358/bio/" itemprop="url" title="Леонид Нечаев"><strong itemprop="name">Леонид Нечаев</strong></a></div>
+<div class="film_role">точильщик ножей</div>
+<div class="film_rating"><span id="role_rating_160325"></span></div>
+</div>
+<div class="actor_film_screens"><a href="/kino/movie/sov/4319/foto/a22358/324376/" title="Леонид Нечаев"><img alt="Леонид Нечаев" class="actor_film_img" src="/acter/photo/8/5/22358/pv_324376.jpg" title="Леонид Нечаев"/></a></div>
+</div>
